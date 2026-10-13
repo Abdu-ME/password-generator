@@ -1,0 +1,1 @@
+## Tässä on salasana generaattori. Koodi toimii sillein, että se kysyy kuinka pitkä salasanan haluat ja se luo sen pitkän salasanan. 
